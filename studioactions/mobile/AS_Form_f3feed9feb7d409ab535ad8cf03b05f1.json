@@ -1,0 +1,25 @@
+{
+    "AS_Form_f3feed9feb7d409ab535ad8cf03b05f1": {
+        "id": "AS_Form_f3feed9feb7d409ab535ad8cf03b05f1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSample",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fd4df3ac167c4b3c87fe3fc4a9e4ecc6"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bb3c825aeff745489f617317fe8d0429",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "fireExampleDbUsage",
+            "display": "fireExampleDbUsage",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

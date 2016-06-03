@@ -24,4 +24,7 @@
     <attributes name="iospopuptransitioncorrection" value="true"/>
     <attributes name="appnamekey" value="KonyDaoSample"/>
     <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="Server side mobile web" value="false"/>
 </properties>

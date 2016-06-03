@@ -1,0 +1,3 @@
+[submodule "KonyDao"]
+	path = KonyDao
+	url = git@github.com:konydeveloper/KonyDao.git

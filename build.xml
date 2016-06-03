@@ -104,6 +104,10 @@
 			</if>
 		</else>
 	</if>
+	 
+		<property name="gradle.file" location="${eclipse.equinox.path}/../../../gradle/bin"/>
+		<echo message="Gradle path is ${gradle.file}"/>
+		
 		
     <if>
     	<equals arg1="${os.family}" arg2="windows"/>
@@ -122,7 +126,7 @@
 	        	<arg line='-c "chmod 777 run.sh"'/>
 	        </exec>
 	        <exec dir="." executable="/bin/bash" failonerror="true">
-	        	<arg line='-c "sh run.sh ${input.file} ${ws.location} ${eclipse.equinox.path} ${global.file}"'/>
+	        	<arg line='-c "sh run.sh ${input.file} ${ws.location} ${eclipse.equinox.path} ${global.file} ${gradle.file}"'/>
 	        </exec>
     	</else>
     </if>	
