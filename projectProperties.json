@@ -1,0 +1,29 @@
+{
+    "project.type": "js",
+    "appaddrkey": "",
+    "createdVizVersion": "7.0.1",
+    "appversionkey": "1.0.0",
+    "mwportkey": "",
+    "defaulttheme": "defaultTheme",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "mwaddrkey": "",
+    "createdgaversion": "7.0.0",
+    "build": "debug",
+    "winmobileguidkey": "",
+    "currentgaversion": "7.0.0",
+    "appidkey": "KonyDaoSample",
+    "apppackagekey": "",
+    "mwhttpsportkey": "",
+    "startupformkey": "",
+    "vendornamekey": "KonyLabs",
+    "konyVizVersion": "7.0.1",
+    "appnamekey": "KonyDaoSample",
+    "APPLICATION_THEME": "default",
+    "project_version": "sprint22",
+    "nativeContainerProperties": {
+        "isModified": true,
+        "isEnableJSContainer": false,
+        "isEnableJSContainerAndroid": false,
+        "isEnableJSContaineriOS": false
+    }
+}
