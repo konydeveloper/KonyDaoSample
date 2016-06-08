@@ -841,7 +841,7 @@ function DatabaseMaster() {
 
 
 
-	// Thread Safe Transactions - freak'n kony doesn't handle this...
+	// Thread Safe Transactions
 	var transactions = []; 
 	var transactionCounter = 0;
 	
@@ -902,6 +902,6 @@ function DatabaseMaster() {
 
 	// KEEP START
 	
-
+	
 	// KEEP END
 }
